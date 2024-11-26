@@ -1,4 +1,4 @@
-<h2 align="center" color="red">SCRIPT SSHPLUS 2023</h2>
+<h2 align="center" color="red">SCRIPT WEBCONT 2025</h2>
 
 ## FUNCIONALIDADES:
 
@@ -57,7 +57,7 @@ sudo -i
 ### 2. SCRIPT PARA ALTERAR SENHA E USUÁRIO ROOT
 
 ````
-bash <(wget -qO- https://raw.githubusercontent.com/PhoenixxZ2023/senharoot/main/senharoot.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Satoshi-V/senharoot/main/senharoot.sh)
 ````
 
 ♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
@@ -67,14 +67,14 @@ bash <(wget -qO- https://raw.githubusercontent.com/PhoenixxZ2023/senharoot/main/
 Opção 1:
 
 ````
-apt update -y && apt upgrade -y && wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/ssh-plus)
+apt update -y && apt upgrade -y && wget -y; bash <(wget -qO- raw.githubusercontent.com/Satoshi-V/PLUS/main/ssh-plus)
 ````
 
 Opção 2:
 
 ````
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/ssh-plus && chmod 777 ssh-plus && ./ssh-plus
+apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/Satoshi-V/PLUS/main/ssh-plus && chmod 777 ssh-plus && ./ssh-plus
 ````
 
-## TELEGRAM: [@TURBONET2023](https://t.me/TURBONET2023)
+## TELEGRAM: [@Net_Satoshi](https://t.me/Net_Satoshi)
 
