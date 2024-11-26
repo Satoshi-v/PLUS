@@ -258,7 +258,7 @@ swap1=$(printf '%-5s' "$(free -h | grep -i swap | awk {'print $2'})")
 swap2=$(printf '%-5s' "$(free -h | grep -i swap | awk {'print $4'})")
 swap3=$(printf '%-5s' "$(free -h | grep -i swap | awk {'print $3'})")
 clear
-echo -e "\033[1;37mSEU IP 👉 \033[38;5;82m$IP            \033[1;36mTELEGRAM 😎\033 \033[1;37m @TURBONET2023"
+echo -e "\033[1;37mSEU IP 👉 \033[38;5;82m$IP            \033[1;36mTELEGRAM 😎\033 \033[1;37m @Net_Satoshi"
 echo -e "\033[1;36m┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\033[0m"
 echo -e "\033[1;36m┃\E[46;1;37m                   TURBONET SCRIPT-SSHPLUS                \E[0m\033[1;36m┃" 
 echo -e "\033[1;36m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\033[0m"
@@ -499,7 +499,7 @@ case "$x" in
    nload
    ;;
    18)
-   bash <(wget -qO- https://raw.githubusercontent.com/PhoenixxZ2023/turbo-swap/master/turbo_swap.sh)
+   bash <(wget -qO- https://raw.githubusercontent.com/Satoshi-V/turbo-swap/master/turbo_swap.sh)
    ;;
    19)
    userbackup
